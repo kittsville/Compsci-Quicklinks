@@ -8,7 +8,7 @@ This is based on [Quicklinks](https://github.com/kittsville/ABDN-Quicklinks).
 
 ### Features
 
-- No JavaScript
+- Minimal JavaScript
 - No Tracking/Analytics
 - Crap-free page*
 - Responsive design
