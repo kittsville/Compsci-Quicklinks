@@ -1,6 +1,6 @@
 # Aberdeen University Computer Science Quicklinks
 
-A simple page for accessing Computer Science resources. Each link cuts through the crap (navigating MyAberdeen and lengthy URLs) to take you straight to the correct resource.
+A simple page for accessing 3rd year Computer Science resources at the University of Aberdeen. Each link is designed to take you to the relevant resources as directly as possible.
 
 Created to save a frustrated Computer Science student a few seconds.
 
