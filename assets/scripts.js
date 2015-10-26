@@ -12,6 +12,8 @@ var motd = [
 	'Soon to be a sixth century course',
 	'Let\'s get down to business',
 	'Apparently \'senpai\' isn\'t an appropriate way of addressing your lecturer',
+	'I will never turn up on Spotted: Aberdeen University :(',
+	'Yes, we can hear you whispering',
 ];
 
 document.getElementById('motd').innerHTML = motd[Math.floor(Math.random()*motd.length)];
