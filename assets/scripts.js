@@ -11,6 +11,7 @@ var motd = [
 	'We gun fail bad',
 	'Soon to be a sixth century course',
 	'Let\'s get down to business',
+	'Apparently \'senpai\' isn\'t an appropriate way of addressing your lecturer',
 ];
 
 document.getElementById('motd').innerHTML = motd[Math.floor(Math.random()*motd.length)];
