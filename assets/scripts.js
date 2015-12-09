@@ -17,6 +17,7 @@ var motd = [
 	'Do not look directly at the level 6 notice board',
 	'Frank will never be your waifu',
 	'Not even Chomsky can save you now',
+	'Is not an ogre',
 ];
 
 document.getElementById('motd').innerHTML = motd[Math.floor(Math.random()*motd.length)];
