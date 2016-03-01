@@ -11,7 +11,7 @@ var motd = [
 	'We gun fail bad',
 	'Soon to be a sixth century course',
 	'Let\'s get down to business',
-	'Apparently \'senpai\' isn\'t an appropriate way of addressing your lecturer',
+	'Apparently \'senpai\' isn\'t an appropriate way of addressing a lecturer',
 	'I will never turn up on Spotted: Aberdeen University :(',
 	'Yes, we can hear you whispering',
 	'Do not look directly at the level 6 notice board',
