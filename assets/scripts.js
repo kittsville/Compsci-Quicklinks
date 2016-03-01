@@ -18,6 +18,7 @@ var motd = [
 	'Frank will never be your waifu',
 	'Not even Chomsky can save you now',
 	'Is not an ogre',
+	'Asbestos, the best form of pest control',
 ];
 
 document.getElementById('motd').innerHTML = motd[Math.floor(Math.random()*motd.length)];
