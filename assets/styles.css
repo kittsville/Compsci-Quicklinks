@@ -41,13 +41,20 @@ h1, p {
 	display: block;
 	background: #FCFCFC;
 	margin: 5px auto;
-	padding: 0.7em 0.2em;
+	padding: 12px 4px;
 	border-radius: 0.3em;
 	overflow: hidden;
 	text-decoration: none;
 	color: #2F2F2F;
 	width: 100%;
 	vertical-align: middle;
+}
+
+.links a:focus {
+	outline: 0;
+	border: 2px solid rgb(94, 158, 214);
+	border-radius: 0.2em;
+	padding: 10px 2px;
 }
 
 .links a.down {
