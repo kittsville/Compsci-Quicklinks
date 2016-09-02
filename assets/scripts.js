@@ -1,3 +1,5 @@
+(function() {
+
 var motd = [
 	'TRON, he fights for the users!',
 	'Part of the Nigel Beacham Appreciation Society',
@@ -25,4 +27,4 @@ var motd = [
 
 document.getElementById('motd').innerHTML = motd[Math.floor(Math.random()*motd.length)];
 
-delete motd;
+})();
