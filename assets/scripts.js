@@ -8,7 +8,7 @@ var motd = [
 	'Panic mode enagaged',
 	'I\'m growing my own Meston at home. You just need concrete and shattered dreams.',
 	'Soon to be a UNIX system',
-	'Dr, Wyner\'s office remains the single largest untapped source of geothermal energy',
+	'Dr. Wyner\'s office remains the single largest untapped source of geothermal energy',
 	'I used a uni computer once. Once.',
 	'We gun fail bad',
 	'Soon to be a sixth century course',
